@@ -5,7 +5,7 @@ Thanks for stopping by!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
 
-# Contact ME
+# Contact ME !!
 Mail - sakthivelpillai25@gmail.com
 
 Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
@@ -14,7 +14,7 @@ Kggle- https://www.kaggle.com/nameissakthi
 
 
 # Who am I?
-I am a machine learning enthusiast who strives every day to advance my knowledge of the enormous and limitless idea known as "data" and attempt to comprehend it completely.
+I am a Machine Learning Engineer with expertise in deep learning and computer vision and also passionate about leveraging cutting-edge technologies to tackle complex problems. I have a strong background in mathematics, statistics, and computer science, and specialize in developing and deploying machine learning models for a variety of applications. In particular, my expertise in deep learning and computer vision has enabled me to build models that can analyze and interpret images and video streams. I am constantly seeking new challenges to push the boundaries of what is possible with machine learning and am always staying up-to-date with the latest trends and techniques in the field
 
 
 <!--
