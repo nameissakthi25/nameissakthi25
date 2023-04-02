@@ -10,8 +10,9 @@ I am a Machine Learning Engineer with expertise in deep learning and computer vi
 
 # Tech I've Worked With 🥷
 ![Tensorflow](https://img.shields.io/badge/%20-Tensorflow-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white) ![pytorch](https://img.shields.io/badge/%20-Pytorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=red) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# Get in Touch !!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit](https://img.shields.io/badge/Scikitlearn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=#00C7B7)
+# Get in Touch 📱
+
 Mail - sakthivelpillai25@gmail.com
 
 Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
