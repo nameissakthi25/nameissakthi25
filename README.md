@@ -1,4 +1,4 @@
-# SAKTHIVEL Senthilkumar
+# Sakthivel Senthilkumar
 <img src='images/hello.gif' width=900>
 
 # Who am I?
@@ -24,7 +24,7 @@ Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
 
 Kaggle- https://www.kaggle.com/nameissakthi
 
-Thanks for stopping by!
+![Thankyou](images/thankyou.jpg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
 
