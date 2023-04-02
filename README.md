@@ -18,7 +18,7 @@ Thanks for stopping by!
  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>  ![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white) ![chatgpt](https://img.shields.io/badge/ChatGPT-%23026AA7.svg?style=for-the-badge&logo=openai&logoColor=white) 
 # Get in Touch 📱
 
-![Mail](https://img.shields.io/badge/Mail-aaishika-%231de9b6.svg?&style=for-the-badge&logo=gmail&logoColor=white") - sakthivelpillai25@gmail.com
+Mail - sakthivelpillai25@gmail.com
 
 Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
 
