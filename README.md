@@ -1,8 +1,18 @@
+# SAKTHIVEL S
 ![Header](images/hello.gif)
 <br>
 Thanks for stopping by!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
+
+# Contact ME
+![Header](images/mail.png) sakthivelpillai25@gmail.com
+![Header](images/linkedin.png) bit.ly/3G44JM5
+![Header](images/kaggle.pmg) https://www.kaggle.com/nameissakthi
+
+
+# Who am I?
+I am a machine learning enthusiast who strives every day to advance my knowledge of the enormous and limitless idea known as "data" and attempt to comprehend it completely.
 
 
 <!--
