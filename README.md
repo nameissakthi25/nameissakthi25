@@ -15,7 +15,7 @@
  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>  ![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white) ![chatgpt](https://img.shields.io/badge/ChatGPT-%23026AA7.svg?style=for-the-badge&logo=openai&logoColor=white) 
 
 # Currently Learning
-![NLP](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=nlp&logoColor=white) ![Generative Ai](https://img.shields.io/badge/-GAN's-E10098?style=for-the-badge&logo=&logoColor=white) ![Transformers](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-%2300ADD8.svg?style=for-the-badge&logo=nlp&logoColor=white) ![Generative Ai](https://img.shields.io/badge/-GAN's-E10098?style=for-the-badge&logo=&logoColor=white) ![Transformers](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
 # Get in Touch 📱
 
 Mail - sakthivelpillai25@gmail.com
