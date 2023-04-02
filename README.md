@@ -1,4 +1,4 @@
-![Header](assests\hello.avif "Header Image")
+![Header](assests\hello.gif "Header Image")
 
 
 <!--
