@@ -9,8 +9,8 @@ Thanks for stopping by!
 I am a Machine Learning Engineer with expertise in deep learning and computer vision and also passionate about leveraging cutting-edge technologies to tackle complex problems. I have a strong background in mathematics, statistics, and computer science, and specialize in developing and deploying machine learning models for a variety of applications. In particular, my expertise in deep learning and computer vision has enabled me to build models that can analyze and interpret images and video streams. I am constantly seeking new challenges to push the boundaries of what is possible with machine learning and am always staying up-to-date with the latest trends and techniques in the field.
 
 # Tech I've Worked With 🥷
-![Tensorflow](https://img.shields.io/badge/%20-Tensorflow-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=orange) ![pytorch](https://img.shields.io/badge/%20-Pytorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=red) 
-![Python]() ![java]() ![Mysql]() !
+![Tensorflow](https://img.shields.io/badge/%20-Tensorflow-FF6C37?style=for-the-badge&logo=tensorflow) ![pytorch](https://img.shields.io/badge/%20-Pytorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=red) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java]() ![Mysql]() !
 # Get in Touch !!
 Mail - sakthivelpillai25@gmail.com
 
