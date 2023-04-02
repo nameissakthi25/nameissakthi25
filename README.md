@@ -1,5 +1,5 @@
 # SAKTHIVEL S
-<img src='images/hello.gif' width=50>
+<img src='images/hello.gif' width=100>
 <br>
 Thanks for stopping by!
 
