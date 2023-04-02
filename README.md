@@ -1,5 +1,5 @@
 # SAKTHIVEL Senthilkumar
-<img src='images/hello.gif' width=900>
+<img src='images/hello.gif' width=900, height=200>
 
 Thanks for stopping by!
 
