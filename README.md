@@ -1,5 +1,5 @@
 # SAKTHIVEL S
-![Header](images/hello.gif | width=50)
+<img src='images/hello.gif' width=50>
 <br>
 Thanks for stopping by!
 
