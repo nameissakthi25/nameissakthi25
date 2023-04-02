@@ -1,4 +1,4 @@
-![Header](assests\hello.webp "Header Image")
+![Header](assests\hello.webp)
 
 
 <!--
