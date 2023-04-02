@@ -1,5 +1,5 @@
 # Hi there !
-![Header](assests\hello.gif)
+![Header](images/hello.gif)
 # hi
 
 <!--
