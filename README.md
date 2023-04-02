@@ -1,6 +1,7 @@
-# Hi there !
 ![Header](images/hello.gif)
-# hi
+Thanks for stopping by!
+![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
+
 
 <!--
 **ezioauditore-tech/ezioauditore-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
