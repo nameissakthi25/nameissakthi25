@@ -10,8 +10,8 @@ Thanks for stopping by!
 
 # Tech I've Worked With 🥷
 ![Tensorflow](https://img.shields.io/badge/%20-Tensorflow-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-C51A4A?style=for-the-badge&logo=Pandas)  ![pytorch](https://img.shields.io/badge/%20-Pytorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=red)
-![Matplot](https://img.shields.io/badge/Matplotlib-F5DF09?style=for-the-badge&logo=matplotlib) ![Numpy](https://img.shields.io/badge/Numpy-27407C?style=for-the-badge&logo=Numpy)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit](https://img.shields.io/badge/Scikitlearn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=#00C7B7) 
+ ![Matplot](https://img.shields.io/badge/Matplotlib-F5DF09?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Numpy](https://img.shields.io/badge/Numpy-27407C?style=for-the-badge&logo=Numpy)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit](https://img.shields.io/badge/Scikitlearn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=#00C7B7) ![tableau](https://img.shields.io/badge/Tableau-0BF29E?style=for-the-badge&logo=tableau&logoColor=#00C7B7)
 # Get in Touch 📱
 
 Mail - sakthivelpillai25@gmail.com
