@@ -6,9 +6,9 @@ Thanks for stopping by!
 ![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
 
 # Contact ME
-![Header](images/mail.png) sakthivelpillai25@gmail.com
-![Header](images/linkedin.png) bit.ly/3G44JM5
-![Header](images/kaggle.pmg) https://www.kaggle.com/nameissakthi
+Mail - sakthivelpillai25@gmail.com
+Linkedin- bit.ly/3G44JM5
+Kggle- https://www.kaggle.com/nameissakthi
 
 
 # Who am I?
