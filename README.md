@@ -24,7 +24,7 @@ Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
 
 Kaggle- https://www.kaggle.com/nameissakthi
 
-![Thankyou](images/thankyou.jpg)
+![Thankyou](images/thankyou.jpg | width=300)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ezioauditore-tech&label=VIEWS)
 
