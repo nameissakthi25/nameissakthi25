@@ -14,11 +14,11 @@ Thanks for stopping by!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![scikit](https://img.shields.io/badge/Scikitlearn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=#00C7B7) ![tableau](https://img.shields.io/badge/Tableau-0BF29E?style=for-the-badge&logo=tableau&logoColor=#00C7B7) ![watson](https://img.shields.io/badge/WatsonStudio-5B1B66?style=for-the-badge&logo=ibm) ![Fastapi](https://img.shields.io/badge/FastAPI-AA242E?style=for-the-badge&logo=fastapi)
 
 # Tools I Use 🛠️
- ![Colab](https://img.shields.io/badge/Colab-FF6C37?style=for-the-badge&logo=colab&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
+ ![Colab](https://img.shields.io/badge/Colab-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>  ![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white) ![chatgpt](https://img.shields.io/badge/ChatGPT-%23026AA7.svg?style=for-the-badge&logo=openai&logoColor=white) 
 # Get in Touch 📱
 
-Mail - sakthivelpillai25@gmail.com
+![Mail](https://img.shields.io/badge/Mail-aaishika-%231de9b6.svg?&style=for-the-badge&logo=gmail&logoColor=white") - sakthivelpillai25@gmail.com
 
 Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
 
