@@ -1,5 +1,5 @@
 # SAKTHIVEL S
-![Header](images/hello.gif | width=100)
+![Header](images/hello.gif | width=50)
 <br>
 Thanks for stopping by!
 
