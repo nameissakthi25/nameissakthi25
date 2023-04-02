@@ -1,7 +1,7 @@
 # SAKTHIVEL Senthilkumar
 <img src='images/hello.gif' width=900>
 
-![Background Image](images\force.webp)
+![Background Image](images/force.webp)
 
 # Who am I?
 *I am a Machine Learning Engineer with expertise in deep learning and computer vision and also passionate about leveraging cutting-edge technologies to tackle complex problems. I have a strong background in mathematics, statistics, and computer science, and specialize in developing and deploying machine learning models for a variety of applications. In particular, my expertise in deep learning and computer vision has enabled me to build models that can analyze and interpret images and video streams. I am constantly seeking new challenges to push the boundaries of what is possible with machine learning and am always staying up-to-date with the latest trends and techniques in the field.*
