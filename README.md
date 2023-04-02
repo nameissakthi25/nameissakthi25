@@ -7,7 +7,9 @@ Thanks for stopping by!
 
 # Contact ME
 Mail - sakthivelpillai25@gmail.com
-Linkedin- bit.ly/3G44JM5
+
+Linkedin- https://www.linkedin.com/in/sakthivel-senthilkumar-5a48921a6/
+
 Kggle- https://www.kaggle.com/nameissakthi
 
 
