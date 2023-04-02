@@ -10,7 +10,7 @@ I am a Machine Learning Engineer with expertise in deep learning and computer vi
 
 # Tech I've Worked With 🥷
 ![Tensorflow](https://img.shields.io/badge/%20-Tensorflow-FF6C37?style=for-the-badge&logo=tensorflow) ![pytorch](https://img.shields.io/badge/%20-Pytorch-yellowgreen?style=for-the-badge&logo=pytorch&logoColor=red) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=javal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # Get in Touch !!
 Mail - sakthivelpillai25@gmail.com
 
